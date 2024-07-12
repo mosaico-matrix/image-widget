@@ -1,9 +1,9 @@
 {
-  "name": "New Project",
-  "description": "A new Mosaico project",
+  "name": "Image",
+  "description": "Simply display an image on the matrix",
   "widget_version": "1.0",
   "software_version": "1.0",
-  "author": "Mosaico Team",
+  "author": "murkrow",
   "fps": 1,
   "configurable": true
 }
